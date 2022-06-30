@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traveler's backpack midpoly
+* source:	https://sketchfab.com/3d-models/travelers-backpack-midpoly-0c28971fd025403499530f44569a5c00
+* author:	Kiratta (https://sketchfab.com/Kiratta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traveler's backpack midpoly" (https://sketchfab.com/3d-models/travelers-backpack-midpoly-0c28971fd025403499530f44569a5c00) by Kiratta (https://sketchfab.com/Kiratta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

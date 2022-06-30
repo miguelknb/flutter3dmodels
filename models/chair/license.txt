@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chair_08 2K
+* source:	https://sketchfab.com/3d-models/chair-08-2k-29d86acb102a4cffad2781b91b101c2a
+* author:	Caxtor (https://sketchfab.com/caxtor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chair_08 2K" (https://sketchfab.com/3d-models/chair-08-2k-29d86acb102a4cffad2781b91b101c2a) by Caxtor (https://sketchfab.com/caxtor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,692 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1574,
+      "max": [
+        28.961002349853516,
+        19.917285919189453,
+        34.80715560913086
+      ],
+      "min": [
+        -1.5703104734420776,
+        -19.917285919189453,
+        -11.561209678649902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18888,
+      "componentType": 5126,
+      "count": 1574,
+      "max": [
+        1.0,
+        0.9968727231025696,
+        0.9997174739837646
+      ],
+      "min": [
+        -1.0,
+        -0.9970346093177795,
+        -0.9998671412467957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1574,
+      "max": [
+        0.9998369812965393,
+        0.999515950679779,
+        0.9968863725662231,
+        1.0
+      ],
+      "min": [
+        -0.9967613220214844,
+        -1.0,
+        -0.9970088005065918,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1574,
+      "max": [
+        0.9967918395996094,
+        0.4628347158432007
+      ],
+      "min": [
+        0.004384025931358337,
+        0.005456529092043638
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7164,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37776,
+      "componentType": 5126,
+      "count": 271,
+      "max": [
+        3.392230272293091,
+        1.322425127029419,
+        0.9821106195449829
+      ],
+      "min": [
+        -5.761536121368408,
+        -12.88523006439209,
+        -0.9821105003356934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 41028,
+      "componentType": 5126,
+      "count": 271,
+      "max": [
+        1.0,
+        1.0,
+        0.9865232110023499
+      ],
+      "min": [
+        -1.0,
+        -0.9994163513183594,
+        -0.9865232110023499
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 25184,
+      "componentType": 5126,
+      "count": 271,
+      "max": [
+        0.9788011312484741,
+        0.9984537363052368,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9954689145088196,
+        -0.9909933805465698,
+        -0.9999125003814697,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12592,
+      "componentType": 5126,
+      "count": 271,
+      "max": [
+        0.1272488683462143,
+        0.4183918237686157
+      ],
+      "min": [
+        0.0074770101346075535,
+        0.3087645173072815
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 28656,
+      "componentType": 5125,
+      "count": 1224,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 44280,
+      "componentType": 5126,
+      "count": 3976,
+      "max": [
+        30.024845123291016,
+        19.826669692993164,
+        3.5682222843170166
+      ],
+      "min": [
+        -19.897859573364258,
+        -12.961183547973633,
+        -36.17865753173828
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 91992,
+      "componentType": 5126,
+      "count": 3976,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 29520,
+      "componentType": 5126,
+      "count": 3976,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14760,
+      "componentType": 5126,
+      "count": 3976,
+      "max": [
+        0.9916484355926514,
+        0.9974892139434814
+      ],
+      "min": [
+        0.010400957427918911,
+        0.000676274299621582
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 33552,
+      "componentType": 5125,
+      "count": 17946,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 139704,
+      "componentType": 5126,
+      "count": 400,
+      "max": [
+        16.789865493774414,
+        16.756732940673828,
+        -0.7406360507011414
+      ],
+      "min": [
+        -16.789867401123047,
+        -16.756732940673828,
+        -0.8164848685264587
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 144504,
+      "componentType": 5126,
+      "count": 400,
+      "max": [
+        1.0,
+        0.9980367422103882,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9980367422103882,
+        -0.9999998211860657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 93136,
+      "componentType": 5126,
+      "count": 400,
+      "max": [
+        0.7408355474472046,
+        0.9979578852653503,
+        0.9998551607131958,
+        1.0
+      ],
+      "min": [
+        -0.267299085855484,
+        -0.9415123462677002,
+        -0.999826967716217,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46568,
+      "componentType": 5126,
+      "count": 400,
+      "max": [
+        0.9786637425422668,
+        0.7460212707519531
+      ],
+      "min": [
+        0.7329205274581909,
+        0.5001304745674133
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 105336,
+      "componentType": 5125,
+      "count": 1500,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "LucieB (https://sketchfab.com/LucieB)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/gramophone-354940ce86064e9c897487ac21fbd7c7",
+      "title": "Gramophone"
+    },
+    "generator": "Sketchfab-13.52.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 111336,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 49768,
+      "byteOffset": 111336,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 149304,
+      "byteOffset": 161104,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 99536,
+      "byteOffset": 310408,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 409944,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_3_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_3_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material_3_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material_3",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Klangk��rper_Material #3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Kurbel_Material #3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gramophone_Material #3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Schallplatte_Material #3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "36fd66e603654c1faaf9ea7d3f403945.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        8,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.7071069898027682,
+        -5.551115123125783e-17,
+        0.7071065725702652,
+        0.0,
+        0.7071065725702652,
+        1.1102230246251565e-16,
+        -0.7071069898027682,
+        0.0,
+        -5.551115123125783e-17,
+        1.0,
+        1.1102230246251565e-16,
+        0.0,
+        -16.343914031982422,
+        32.54862976074219,
+        -12.714675903320313,
+        1.0
+      ],
+      "name": "Klangk��rper"
+    },
+    {
+      "mesh": 0,
+      "name": "Klangk��rper_Material #3_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.7071069898027682,
+        -5.551115123125783e-17,
+        0.7071065725702652,
+        0.0,
+        0.7071065725702652,
+        1.1102230246251565e-16,
+        -0.7071069898027682,
+        0.0,
+        -5.551115123125783e-17,
+        1.0,
+        1.1102230246251565e-16,
+        0.0,
+        6.99766731262207,
+        12.726455688476563,
+        -12.316118240356445,
+        1.0
+      ],
+      "name": "Kurbel"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.08924674987793,
+        12.885231018066406,
+        0.0,
+        1.0
+      ],
+      "name": "Object_6"
+    },
+    {
+      "mesh": 1,
+      "name": "Kurbel_Material #3_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        -0.7071065427679244,
+        8.657354347296753e-17,
+        -0.7071070196050904,
+        0.0,
+        -0.00016585913950512292,
+        0.999999972490764,
+        0.0001658590276582408,
+        0.0,
+        0.7071070001531166,
+        0.00023456016544400054,
+        -0.7071065233159637,
+        0.0,
+        -4.4087748527526855,
+        0.0,
+        -0.9537239074707031,
+        1.0
+      ],
+      "name": "Gramophone"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.4615644633740885e-06,
+        12.7224760055542,
+        16.30518913269043,
+        1.0
+      ],
+      "name": "Object_9"
+    },
+    {
+      "mesh": 2,
+      "name": "Gramophone_Material #3_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        0.6744789648811648,
+        5.294970043770367e-17,
+        0.6744785476487515,
+        0.0,
+        0.6744785476487515,
+        -2.1179880175081469e-16,
+        -0.6744789648811648,
+        0.0,
+        5.294970043770367e-17,
+        0.9538570046424866,
+        -2.1179880175081469e-16,
+        0.0,
+        -4.391488075256348,
+        21.869842529296875,
+        -0.9364337921142578,
+        1.0
+      ],
+      "name": "Schallplatte"
+    },
+    {
+      "mesh": 3,
+      "name": "Schallplatte_Material #3_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fridge / Stylized / gameready
+* source:	https://sketchfab.com/3d-models/fridge-stylized-gameready-f57bb579c5da4b9c95f1cb874ec558f7
+* author:	Myjato (https://sketchfab.com/Myjato)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fridge / Stylized / gameready" (https://sketchfab.com/3d-models/fridge-stylized-gameready-f57bb579c5da4b9c95f1cb874ec558f7) by Myjato (https://sketchfab.com/Myjato) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
